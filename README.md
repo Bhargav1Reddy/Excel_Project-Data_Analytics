@@ -4,7 +4,7 @@ This repo contains all the Excel files needed to follow along my Excel projects 
 
 ## Salary Dashboard
 
-This data jobs salary dashboard was created to help job seekers investigate salaries to thier desired jobs and ensure they being adequately compensated. 
+This data jobs salary dashboard was created to help job seekers investigate salaries to their desired jobs and ensure they being adequately compensated. 
 [Checkout! my work here](Project_1-Dashboard)
 ![1_Salary_Dashboard_Final_Dashboard](https://github.com/user-attachments/assets/73df456a-c472-4a42-afb9-5f9d9e3516c9)
 
